@@ -1,4 +1,4 @@
-require 'sinatra/sinatra'
+require 'sinatra/base'
 require 'httparty'
 
 class KeyfileCombiner < Sinatra::Base
