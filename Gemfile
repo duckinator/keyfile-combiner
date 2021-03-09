@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+ruby "2.7.2"
 
-gem 'httparty'
-gem 'sinatra'
+gem "httparty"
+gem "sinatra"
